@@ -3,6 +3,6 @@ Example theme for single onepages basend on less
 
 <b>Onepage based on less-technology</b>
 
-Please download files <q>gulpfile.js</q> and "packge.json" and run command "npm install" and "gulp"
+Please download files <q>gulpfile.js</q> and <q>packge.json</q> and run command <q>npm install</q> and <q>gulp</q>
 
 Thanks for visits my project
